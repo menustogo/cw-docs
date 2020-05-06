@@ -66,5 +66,7 @@ Organized from lowest to highest price.
 
 ## Ideal Setup
 
+The ideal setup is what we offer our clients directly - a Lenovo M10 Android tablet and an Epson TM-m30 \(M335B\) bluetooth receipt printer.
+
 ![Ideal setup](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1bzr2nv.png)
 
